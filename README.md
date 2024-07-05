@@ -24,4 +24,5 @@ Here's a famous pattern Gosper's Glider Gun:
 - [ ] Add support for patterns by click.
 - [ ] Make a pseudo-infinite grid by wrapping around the edges.
 - [ ] Extend to 3d and create this thing on Torus or a knot.
+
 ![](gifs/Trefoil.gif)
