@@ -19,3 +19,9 @@ If you want to check patterns, you can enter path when prompted after selecting 
 Here's a famous pattern Gosper's Glider Gun:  
 ![](gifs/Gosper-Glider-Gun.gif)
 
+## TODO
+- [ ] Stop flickering by directly drawing to screen instead of printing rapidly.
+- [ ] Add support for patterns by click.
+- [ ] Make a pseudo-infinite grid by wrapping around the edges.
+- [ ] Extend to 3d and create this thing on Torus or a knot.
+![](Trefoil.gif)
