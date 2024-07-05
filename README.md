@@ -23,6 +23,6 @@ Here's a famous pattern Gosper's Glider Gun:
 - [ ] Stop flickering by directly drawing to screen instead of printing rapidly.
 - [ ] Add support for patterns by click.
 - [ ] Make a pseudo-infinite grid by wrapping around the edges.
-- [ ] Extend to 3d and create this thing on Torus or a knot.
+- [ ] Extend to 3d and create this thing on Torus or a knot kinda like below.
 
 ![](gifs/Trefoil.gif)
